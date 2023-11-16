@@ -19,7 +19,7 @@ footer {
 .wrapper {
    display: flex;
    justify-content: space-between;
-   min-width: 1920px;
+   width: 1920px;
    height: 830px;
    background-image: url('/images/contakt.png');
    background-repeat: no-repeat;
